@@ -8,7 +8,7 @@ Data are the raw facts, unorganized facts that need to be processed. Data can be
 
 When data is processed, organized, structured or presented in a given context so as to make it useful, it is called information.
 
-### Algorithm
+## Algorithm
 
 - Systematic-logical approach which is well-defined, step by step procedure that allows a computer to solve the problem.
 - Algorithms can be expressed using natural language, flowcharts, etc.
