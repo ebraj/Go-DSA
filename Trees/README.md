@@ -78,3 +78,23 @@
 - We use the double linked list to represent a binary tree.
 - In a double linked list, every node consists of three fields.
 - First field for storing left child address, second for stroing actual data and third for storing right child address.
+
+# `Tree Traversals`
+
+### `Preorder Traversal`
+
+- First visit root node.
+- Visit all the nodes in the left subtree.
+- Visit all the nodes in the right subtree.
+
+### `Inorder Traversal`
+
+- First, visit all the nodes in the left subtree.
+- Then the root node.
+- Visit all the nodes in the right subtree.
+
+### `Post Traversal`
+
+- Visit all the nodes in the left subtree.
+- Visit all the nodes in the right subtree.
+- Visit the root node.
