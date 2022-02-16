@@ -16,3 +16,11 @@
 3. peek() | front() - For getting the element at the front of the queue without removing it from the queue.
 4. isFull() - Checks if the queue is full.
 5. isEmpty() - Checks if the queue is empty.
+
+### `Circular Queue`
+
+1. Circular Queue is a linear data structure in which the operations are performed based on FIFO principle and the last position is connected back to the first position.
+2. Time Complexity : O(1) for both the enqueue() & dequeue().
+3. Applicatons :
+   - Traffic System.
+   - Memory Management.
